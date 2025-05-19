@@ -105,3 +105,5 @@ output_path = r"C:\Users\olive\OneDrive\Programming\Projects\DatabaseBuild 5.9.2
 collapsed_df.to_csv(output_path, index=False)
 
 print(f"✅ Final collapsed work history saved to: {output_path}")
+
+
